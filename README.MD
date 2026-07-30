@@ -1,6 +1,4 @@
-<video autoplay muted loop>
-  <source src="images/video-anime.mp4">
-</video>
+![](images/video-anime.mp4)
 
 ## Hey, It's Nabila here
 
