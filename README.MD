@@ -1,5 +1,5 @@
-<video autoplay muted loop playsinline width="100%">
-  <source src="./videos/intro.mp4" type="video/mp4">
+<video autoplay muted loop>
+  <source src="images/video-anime.mp4">
 </video>
 
 ## Hey, It's Nabila here
