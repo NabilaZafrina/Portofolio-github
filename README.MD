@@ -1,4 +1,4 @@
-![](images/video-anime.mp4)
+![](video-anime.mp4)
 
 ## Hey, It's Nabila here
 
