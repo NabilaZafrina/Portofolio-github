@@ -1,6 +1,5 @@
-<video autoplay muted loop>
-  <source src="https://github.com/NabilaZafrina/Portofolio-github/blob/main/images/video-anime.mp4">
-</video>
+   <img src= "https://github.com/NabilaZafrina/Portofolio-github/blob/main/images/video-anime.mp4?raw=true" width="100%">
+
 
 ## Hey, It's Nabila here
 
