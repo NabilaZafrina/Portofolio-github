@@ -1,5 +1,6 @@
-   <img src= "https://github.com/NabilaZafrina/Portofolio-github/blob/main/images/video-anime.mp4?raw=true" width="100%">
-
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx.mp4" type="video/mp4">
+</video>
 
 ## Hey, It's Nabila here
 
